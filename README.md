@@ -119,19 +119,6 @@ The analysis was performed in the following steps:
 
 ---
 
-## Key Observations
-
-The dashboard shows considerable variation in nutritional intake across the 21-day period.
-
-- Protein intake fluctuated substantially, with several days within the target range and several days below it.
-- Fibre intake was generally below the 40 g/day reference on many recorded days, with a few days exceeding the reference.
-- Fat intake varied considerably, including days within the target range and days both below and above it.
-- Carbohydrate intake showed large day-to-day variation, with some days within the target range and several days substantially below or above it.
-- Calorie intake also varied considerably, with some days close to the ~2700 kcal reference and several days considerably lower or higher.
-- The analysis also shows that nutritional intake was not consistent across the same days of the week.
-
----
-
 ## Missing Data
 
 A small number of observations were not recorded during the 21-day period.
