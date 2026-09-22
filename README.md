@@ -176,14 +176,19 @@ The `.twbx` file contains the Tableau workbook and its associated packaged data,
 ```text
 21-day-nutritional-intake-analysis/
 │
-├── 21-Day_Nutritional_Intake_Analysis.twbx
-├── 21-day-nutritional-dashboard.png
-│
-├── protein_21_days_numeric_data.csv
-├── fibre_21_days_numeric_data.csv
-├── fat_21_days_numeric_data.csv
-├── carbohydrates_21_days_numeric_data.csv
-├── calories_21_days_numeric_data.csv
-│
 ├── README.md
-└── .gitignore
+├── .gitignore
+│
+├── dashboard/
+│   ├── 21-Day_Nutritional_Intake_Analysis.twbx
+│   └── 21-day-nutritional-dashboard.png
+│
+├── data/
+│   ├── protein_21_days_numeric_data.csv
+│   ├── fibre_21_days_numeric_data.csv
+│   ├── fat_21_days_numeric_data.csv
+│   ├── carbohydrates_21_days_numeric_data.csv
+│   └── calories_21_days_numeric_data.csv
+│
+├── 21-Day_Nutritional_Analysis_Report.docx
+└── Optimal_nutrient_level_calculation.docx
