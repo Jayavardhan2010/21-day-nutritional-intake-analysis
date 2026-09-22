@@ -98,7 +98,7 @@ The dashboard also uses conditional colours to distinguish observations that fal
 
 The final Tableau dashboard provides a single view of all five nutritional metrics across the 21-day period.
 
-![21-Day Nutritional Dashboard](21-day-nutritional-dashboard.png)
+![21-Day Nutritional Dashboard](dashboard/21-day-nutritional-dashboard.png)
 
 ---
 
